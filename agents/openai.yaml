@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dotnet Architecture Analysis"
+  short_description: "Assess .NET architecture, risks, and refactor roadmap."
+  default_prompt: "Analyze this .NET solution as a senior solution architect and return structured findings, risks, and an action plan."
